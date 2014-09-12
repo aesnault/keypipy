@@ -1,0 +1,2 @@
+
+Small experiment to plug a cheap morse into a rapsberypi. 
